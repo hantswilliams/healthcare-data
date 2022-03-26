@@ -4,9 +4,17 @@ Best of healthcare data
 
 
 ### Tools / searchable engines
-1. https://www.kegg.jp/ 
-  - provides ICD, genomic, drug (ATC/RxNorm)
+1. Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
+  - https://www.kegg.jp/ 
   - https://www.kegg.jp/kegg/brite.html 
-2. find.nhit.org 
-  - focuses on open source government datasets (healthdata.gov, cdc.gov, etc...)
-4. XX
+2. Government Data US (focuses on open source government datasets (healthdata.gov, cdc.gov, etc...)
+  - https://www.find.nhit.org 
+4. SNOWMED searchable 
+  - https://browser.ihtsdotools.org/?
+
+### APIs 
+1. FDA open APIs 
+  - https://open.fda.gov/apis/
+2. National Library Medicine (clinicaltables - ICD, LOINC, NPI, RXnorm, and many more)
+  - https://clinicaltables.nlm.nih.gov/ 
+
