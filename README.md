@@ -9,8 +9,11 @@ Best of healthcare data
   - https://www.kegg.jp/kegg/brite.html 
 2. Government Data US (focuses on open source government datasets (healthdata.gov, cdc.gov, etc...)
   - https://www.find.nhit.org 
-4. SNOWMED searchable 
+3. SNOWMED searchable 
   - https://browser.ihtsdotools.org/?
+4. Relational search tool (athena - via ohdsi.org - / 'Odyssey' 
+  - https://athena.ohdsi.org/search-terms/start
+  - https://www.ohdsi.org 
 
 ### APIs 
 1. FDA open APIs 
