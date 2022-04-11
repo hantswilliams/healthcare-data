@@ -15,6 +15,9 @@ Best of healthcare data
   - https://athena.ohdsi.org/search-terms/start
   - https://www.ohdsi.org 
 
+5. Tools from US government agencies (HHS, CDC, etc...) 
+  - https://code.gov/agencies
+
 ### APIs 
 1. FDA open APIs 
   - https://open.fda.gov/apis/
@@ -24,7 +27,8 @@ Best of healthcare data
 
 3. Drug Classes (NLM) 
   - https://lhncbc.nlm.nih.gov/RxNav/APIs/RxClassAPIs.html
-  - 
+4. Nutrition
+  - https://www.nutritionix.com/
 
 ### Open sourced ML 
 1. Radiology related 
