@@ -23,6 +23,7 @@ Best of healthcare data
   - https://open.fda.gov/apis/
   - Drug Side effects, product labeling
     - https://open.fda.gov/apis/drug/event/
+    - https://dailymed.nlm.nih.gov/dailymed/
 2. National Library Medicine (clinicaltables - ICD, LOINC, NPI, RXnorm, and many more)
   - https://clinicaltables.nlm.nih.gov/ 
   - For more NLM, go here and filter for APIs: https://eresources.nlm.nih.gov/nlm_eresources/ 
