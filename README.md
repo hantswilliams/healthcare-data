@@ -29,3 +29,6 @@ Best of healthcare data
 ### Open sourced ML 
 1. Radiology related 
   - https://www.acrdsi.org 
+
+2. Generic 
+  - https://the-algorithms.com/category/machinelearning 
