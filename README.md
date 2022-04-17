@@ -42,5 +42,5 @@ Best of healthcare data
 
 
 ### ML test data healthcare 
-1. Stanford 
-  - https://aimi.stanford.edu/shared-datasets
+1. Medical Imaging  
+  - Stanford: https://aimi.stanford.edu/shared-datasets
