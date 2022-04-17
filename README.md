@@ -39,3 +39,8 @@ Best of healthcare data
 
 2. Generic 
   - https://the-algorithms.com/category/machinelearning 
+
+
+### ML test data healthcare 
+1. Stanford 
+  - https://aimi.stanford.edu/shared-datasets
