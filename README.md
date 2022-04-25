@@ -5,8 +5,11 @@ Best of healthcare data
 
 ### Tools / searchable engines
 1. Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
-  - https://www.kegg.jp/ 
-  - https://www.kegg.jp/kegg/brite.html 
+  - KEGG 
+    - https://www.kegg.jp/ 
+    - https://www.kegg.jp/kegg/brite.html 
+  - MONDO: Disease mappings:
+     - https://github.com/monarch-initiative/mondo
 2. Government Data US (focuses on open source government datasets (healthdata.gov, cdc.gov, etc...)
   - https://www.find.nhit.org 
 3. SNOWMED searchable 
@@ -14,7 +17,6 @@ Best of healthcare data
 4. Relational search tool (athena - via ohdsi.org - / 'Odyssey' 
   - https://athena.ohdsi.org/search-terms/start
   - https://www.ohdsi.org 
-
 5. Tools from US government agencies (HHS, CDC, etc...) 
   - https://code.gov/agencies
 
