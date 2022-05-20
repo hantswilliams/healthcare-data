@@ -54,40 +54,40 @@ Best of healthcare data
 # To organize:
 
 Healthcare: 
-        - https://www.nature.com/articles/s41746-022-00557-1 
-        - https://www.nature.com/articles/s41587-021-01145-6 
-        - https://jamanetwork.com/journals/jama/article-abstract/2788483 
-        - Brain imaging tools: 
-            - https://github.com/fepegar/torchio 
-        - Zip code better then genetics -> https://medcitynews.com/2021/08/zip-codes-have-become-a-better-predictor-of-health-outcomes-than-genetic-codes-technology-may-be-ready-to-fix-that/ 
-        - Statistical tests
-            - https://link.springer.com/article/10.1007/s10654-016-0149-3 
-        - ML best practices 
-            - FDA - 
-                - https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles 
-                - https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices 
-                - Action plan - > https://www.fda.gov/media/145022/download 
-                - Digital health reports -> https://www.fda.gov/medical-devices/digital-health-center-excellence/digital-health-reports 
-        - Clinical Knowledge graph (contains tons of APIs/open data to capture) 
+  - https://www.nature.com/articles/s41746-022-00557-1 
+  - https://www.nature.com/articles/s41587-021-01145-6 
+  - https://jamanetwork.com/journals/jama/article-abstract/2788483 
+  - Brain imaging tools: 
+    - https://github.com/fepegar/torchio 
+    - Zip code better then genetics -> https://medcitynews.com/2021/08/zip-codes-have-become-a-better-predictor-of-health-outcomes-than-genetic-codes-technology-may-be-ready-to-fix-that/ 
+   - Statistical tests
+      - https://link.springer.com/article/10.1007/s10654-016-0149-3 
+   -  ML best practices
+      -  FDA 
+        -  https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles 
+        -  https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices 
+        -  Action plan - > https://www.fda.gov/media/145022/download 
+        - Digital health reports -> https://www.fda.gov/medical-devices/digital-health-center-excellence/digital-health-reports 
+   - Clinical Knowledge graph (contains tons of APIs/open data to capture) 
             - https://github.com/MannLabs/CKG 
-        - Interoperability: 
+   - Interoperability: 
             - https://smarthealthit.org/ 
             - USCDI: https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi 
             - SAFER - https://www.healthit.gov/topic/safety/safer-guides 
-        - Case Studies:
+   - Case Studies:
             - https://www.healthit.gov/case-studies
             - https://www.ahrq.gov/news/newsroom/case-studies/index.html 
-        - [ ] Enrichment of geographic data: 
-            - [ ] General data by zipcode 
-                - [ ] https://censusreporter.org/ 
-                - [ ] https://github.com/censusreporter/census-api/blob/master/API.md 
-                    - [ ] Demographics
-                    - [ ] Economics
-                    - [ ] Families
-                    - [ ] Housing
-                    - [ ] Social
-                    - [ ] Health insurance 
-                    - [ ] Poverty (food stamps / SNAP) 
-            - [ ] Disparities ->
-                - [ ] https://www.neighborhoodatlas.medicine.wisc.edu/ 
-                - [ ] https://www.countyhealthrankings.org/ 
+   - Enrichment of geographic data: 
+            - General data by zipcode 
+                - https://censusreporter.org/ 
+                - https://github.com/censusreporter/census-api/blob/master/API.md 
+                    - Demographics
+                    - Economics
+                    - Families
+                    - Housing
+                    - Social
+                    - Health insurance 
+                    - Poverty (food stamps / SNAP) 
+            - Disparities ->
+                - https://www.neighborhoodatlas.medicine.wisc.edu/ 
+                - https://www.countyhealthrankings.org/ 
