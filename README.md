@@ -20,6 +20,19 @@ Best of healthcare data
 5. Tools from US government agencies (HHS, CDC, etc...) 
   - https://code.gov/agencies
 
+### Synthetic Data 
+- https://github.com/synthetichealth/synthea 
+
+
+### Services 
+- Particle Health - https://www.particlehealth.com/
+- Better Platform - Build healthcare apps - https://platform.better.care/sandbox 
+- DrChrono API Platform - https://www.drchrono.com/api/ 
+- Bluebutton CMS - https://bluebutton.cms.gov/developers/ 
+- Humana Data Exchange - https://developers.humana.com/apis/registerapp 
+- Redux API - https://www.redoxengine.com/product/fhir-api/ 
+
+
 ### APIs 
 1. FDA open APIs 
   - https://open.fda.gov/apis/
