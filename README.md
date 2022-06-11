@@ -38,7 +38,8 @@ Best of healthcare data
 
 
 ### Unique open source datasets 
-- All of Us (NIH)  - https://databrowser.researchallofus.org/
+- All of Us (NIH) - genetric, PRO, environmental, social, etc...  - https://databrowser.researchallofus.org/
+- Mimic - ICU-like data - https://physionet.org/content/mimiciii-demo/1.4/ 
 
 ### APIs 
 1. FDA open APIs 
