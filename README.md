@@ -37,6 +37,9 @@ Best of healthcare data
 - CMS quality measure inventory -> https://cmit.cms.gov/cmit/#/ 
 
 
+### Unique open source datasets 
+- All of Us (NIH)  - https://databrowser.researchallofus.org/
+
 ### APIs 
 1. FDA open APIs 
   - https://open.fda.gov/apis/
