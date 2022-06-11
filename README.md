@@ -32,6 +32,10 @@ Best of healthcare data
 - Humana Data Exchange - https://developers.humana.com/apis/registerapp 
 - Redux API - https://www.redoxengine.com/product/fhir-api/ 
 
+### Assessments 
+- SDoH, mental health, substance use disorders, etc... -> https://www.phenxtoolkit.org/  
+- CMS quality measure inventory -> https://cmit.cms.gov/cmit/#/ 
+
 
 ### APIs 
 1. FDA open APIs 
