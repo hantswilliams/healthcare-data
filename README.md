@@ -40,6 +40,8 @@ Best of healthcare data
 ### Unique open source datasets 
 - All of Us (NIH) - genetric, PRO, environmental, social, etc...  - https://databrowser.researchallofus.org/
 - Mimic - ICU-like data - https://physionet.org/content/mimiciii-demo/1.4/ 
+- CMS - open payments - https://www.cms.gov/OpenPayments/Data/Dataset-Downloads 
+- CMS - medicare claims public use files (PUF) - https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/BSAPUFS 
 
 ### APIs 
 1. FDA open APIs 
