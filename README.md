@@ -114,3 +114,29 @@ Healthcare:
             - Disparities ->
                 - https://www.neighborhoodatlas.medicine.wisc.edu/ 
                 - https://www.countyhealthrankings.org/ 
+                
+                
+EMRS:
+Behavioral health specific:
+valant emr (https://www.valant.io)
+eleos health - https://eleos.health
+blue print health - https://www.blueprint-health.com
+luminello - https://luminello.com
+kipu health -https://kipuhealth.com
+opus health - https://www.opusbehavioral.com/ehr
+alleva - https://helloalleva.com (know these guys, somewhat competitor to inrecovery platform which I have access to)
+sessionshealth - https://www.sessionshealth.com/pricing - interesting thing here -> free level that we could use
+therapy notes (https://www.therapynotes.com)
+next-gent EMR/headless:
+canvas EMR (
+@Nick Foden
+ - know the founder here, this is a 'headless' EMR where WE build the frontend, and they provide all APIs/backend to then make it functioanl; so its like a hybrid approach, we build and use what we want/need - i dont know any other company like this yet)
+modern cloud-first on AWS that are well established for small clinics:
+https://www.elationhealth.com/ehr/
+https://www.drchrono.com 
+younger/new that are still startup phase:
+https://www.akutehealth.com
+generic/small practice EMRs:
+kareo emr (https://www.kareo.com)
+non-EMR/complementary for mental health:
+patient success - https://www.lumahealth.io
