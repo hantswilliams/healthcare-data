@@ -19,6 +19,8 @@ Best of healthcare data
   - https://www.ohdsi.org 
 5. Tools from US government agencies (HHS, CDC, etc...) 
   - https://code.gov/agencies
+6. Other health data / aggregator 
+  - https://ghdx.healthdata.org/
 
 ### Synthetic Data 
 - https://github.com/synthetichealth/synthea 
