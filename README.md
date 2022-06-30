@@ -23,6 +23,9 @@ Best of healthcare data
 ### Synthetic Data 
 - https://github.com/synthetichealth/synthea 
 
+### Open source tools 
+- Symptom to condition check - https://github.com/hantswilliams/medical-symptom-checker 
+
 
 ### Services 
 - Particle Health - https://www.particlehealth.com/
