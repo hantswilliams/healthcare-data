@@ -153,5 +153,8 @@ patient success - https://www.lumahealth.io
 Healthcare Icons
 - https://healthicons.org/
 
-Movements Analytics 
-- https://github.com/akshaybahadur21/GymLytics 
+Pose Estimation  
+- Movement - https://github.com/akshaybahadur21/GymLytics 
+- Bed Position - https://web.northeastern.edu/ostadabbas/2019/06/27/multimodal-in-bed-pose-estimation/ 
+- Instructional - https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/ 
+- Summary of librarires - https://medium.datadriveninvestor.com/top-and-best-computer-vision-human-pose-estimation-projects-186d04204dde 
