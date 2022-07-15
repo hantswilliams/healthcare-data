@@ -152,3 +152,6 @@ patient success - https://www.lumahealth.io
 
 Healthcare Icons
 - https://healthicons.org/
+
+Movements Analytics 
+- https://github.com/akshaybahadur21/GymLytics 
