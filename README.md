@@ -148,3 +148,7 @@ generic/small practice EMRs:
 kareo emr (https://www.kareo.com)
 non-EMR/complementary for mental health:
 patient success - https://www.lumahealth.io
+
+
+Healthcare Icons
+- https://healthicons.org/
