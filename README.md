@@ -47,29 +47,22 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
   - National Library Medicine (clinicaltables - ICD, LOINC, NPI, RXnorm, and many more)
       - https://clinicaltables.nlm.nih.gov/ 
       - For more NLM, go here and filter for APIs: https://eresources.nlm.nih.gov/nlm_eresources/ 
-
-3. Drug Classes (NLM) 
-  - https://lhncbc.nlm.nih.gov/RxNav/APIs/RxClassAPIs.html
-4. Nutrition
-  - https://www.nutritionix.com/
+- Drug Classes (NLM) 
+  - NLM RxNav - https://lhncbc.nlm.nih.gov/RxNav/APIs/RxClassAPIs.html
+- Nutrition
+  - nutritionix: https://www.nutritionix.com/
 
 ### Open sourced ML 
-1. Radiology related 
-  - https://www.acrdsi.org 
-
-2. Generic 
-  - https://the-algorithms.com/category/machinelearning 
-
+- Radiology related 
+    - Arcrdsi: https://www.acrdsi.org 
+- Generic 
+    - The-algorithms: https://the-algorithms.com/category/machinelearning 
 
 ### ML test data healthcare 
-1. Medical Imaging  
-  - Stanford: https://aimi.stanford.edu/shared-datasets
-  - NYU Langone Health: https://fastmri.med.nyu.edu/ 
-      - Facebooks code for NYU langone data: https://github.com/facebookresearch/fastMRI
-
-
-
-
+- Medical Imaging  
+    - Stanford: https://aimi.stanford.edu/shared-datasets
+    - NYU Langone Health: https://fastmri.med.nyu.edu/ 
+        - Facebooks code for NYU langone data: https://github.com/facebookresearch/fastMRI
 
 # To organize:
 
