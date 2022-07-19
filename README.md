@@ -1,33 +1,21 @@
 # healthcare-data
 Best of healthcare data
 
-
-
 ### Tools / searchable engines
-1. Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
-  - KEGG 
-    - https://www.kegg.jp/ 
-    - https://www.kegg.jp/kegg/brite.html 
-  - MONDO: Disease mappings:
-     - https://github.com/monarch-initiative/mondo
-2. Government Data US (focuses on open source government datasets (healthdata.gov, cdc.gov, etc...)
-  - https://www.find.nhit.org 
-3. SNOWMED searchable 
-  - https://browser.ihtsdotools.org/?
-4. Relational search tool (athena - via ohdsi.org - / 'Odyssey' 
-  - https://athena.ohdsi.org/search-terms/start
-  - https://www.ohdsi.org 
-5. Tools from US government agencies (HHS, CDC, etc...) 
-  - https://code.gov/agencies
-6. Other health data / aggregator 
-  - https://ghdx.healthdata.org/
+- Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
+    - KEGG: https://www.kegg.jp/ AND https://www.kegg.jp/kegg/brite.html 
+    - MONDO: Disease mappings: https://github.com/monarch-initiative/mondo
+- Government Data US (focuses on open source government datasets (healthdata.gov, cdc.gov, etc...): https://www.find.nhit.org 
+- SNOWMED searchable: https://browser.ihtsdotools.org/?
+- Relational search tool (athena - via ohdsi.org - / 'Odyssey': https://athena.ohdsi.org/search-terms/start AND https://www.ohdsi.org 
+- Tools from US government agencies (HHS, CDC, etc...): https://code.gov/agencies
+- Other health data / aggregator: https://ghdx.healthdata.org/
 
 ### Synthetic Data 
-- https://github.com/synthetichealth/synthea 
+- Synthea: https://github.com/synthetichealth/synthea 
 
 ### Open source tools 
 - Symptom to condition check - https://github.com/hantswilliams/medical-symptom-checker 
-
 
 ### Services 
 - Particle Health - https://www.particlehealth.com/
@@ -51,14 +39,14 @@ Best of healthcare data
 - CMS - medicare claims public use files (PUF) - https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/BSAPUFS 
 
 ### APIs 
-1. FDA open APIs 
-  - https://open.fda.gov/apis/
-  - Drug Side effects, product labeling
-    - https://open.fda.gov/apis/drug/event/
-    - https://dailymed.nlm.nih.gov/dailymed/
-2. National Library Medicine (clinicaltables - ICD, LOINC, NPI, RXnorm, and many more)
-  - https://clinicaltables.nlm.nih.gov/ 
-  - For more NLM, go here and filter for APIs: https://eresources.nlm.nih.gov/nlm_eresources/ 
+- FDA open APIs 
+  - Open FDA: https://open.fda.gov/apis/
+  - FDA: Drug Side effects, product labeling
+      - https://open.fda.gov/apis/drug/event/
+      - https://dailymed.nlm.nih.gov/dailymed/
+  - National Library Medicine (clinicaltables - ICD, LOINC, NPI, RXnorm, and many more)
+      - https://clinicaltables.nlm.nih.gov/ 
+      - For more NLM, go here and filter for APIs: https://eresources.nlm.nih.gov/nlm_eresources/ 
 
 3. Drug Classes (NLM) 
   - https://lhncbc.nlm.nih.gov/RxNav/APIs/RxClassAPIs.html
