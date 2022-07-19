@@ -57,6 +57,11 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - Arcrdsi: https://www.acrdsi.org 
 - Generic 
     - The-algorithms: https://the-algorithms.com/category/machinelearning 
+- Pose/body estimation 
+    - Movement - https://github.com/akshaybahadur21/GymLytics 
+    - Bed Position - https://web.northeastern.edu/ostadabbas/2019/06/27/multimodal-in-bed-pose-estimation/ 
+    - Instructional - https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/ 
+    - Summary of librarires - https://medium.datadriveninvestor.com/top-and-best-computer-vision-human-pose-estimation-projects-186d04204dde 
 
 ### ML test data healthcare 
 - Medical Imaging  
@@ -64,8 +69,36 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - NYU Langone Health: https://fastmri.med.nyu.edu/ 
         - Facebooks code for NYU langone data: https://github.com/facebookresearch/fastMRI
 
-# To organize:
+### EMRs/EHRs 
+## Behavioral health specific:
+        - valant emr (https://www.valant.io)
+        - eleos health - https://eleos.health
+        - blue print health - https://www.blueprint-health.com
+        - luminello - https://luminello.com
+        - kipu health -https://kipuhealth.com
+        - opus health - https://www.opusbehavioral.com/ehr
+        - alleva - https://helloalleva.com (know these guys, somewhat competitor to inrecovery platform which I have access to)
+        - sessionshealth - https://www.sessionshealth.com/pricing - interesting thing here -> free level that we could use
+        - therapy notes (https://www.therapynotes.com)
+        - non-EMR/complementary for mental health:
+            - patient success - https://www.lumahealth.io
+## next-gent EMR/headless:
+        - canvas EMR (
+## generic / for SMBs 
+        - elationhealth https://www.elationhealth.com/ehr/
+        - drchrono https://www.drchrono.com 
+        - kareo emr (https://www.kareo.com)
+## other, younger/new that are still startup phase:
+        - https://www.akutehealth.com
 
+- Healthcare Icons
+    - https://healthicons.org/
+
+
+
+
+
+# To organize:
 Healthcare: 
   - https://www.nature.com/articles/s41746-022-00557-1 
   - https://www.nature.com/articles/s41587-021-01145-6 
@@ -106,37 +139,7 @@ Healthcare:
                 - https://www.countyhealthrankings.org/ 
                 
                 
-EMRS:
-Behavioral health specific:
-valant emr (https://www.valant.io)
-eleos health - https://eleos.health
-blue print health - https://www.blueprint-health.com
-luminello - https://luminello.com
-kipu health -https://kipuhealth.com
-opus health - https://www.opusbehavioral.com/ehr
-alleva - https://helloalleva.com (know these guys, somewhat competitor to inrecovery platform which I have access to)
-sessionshealth - https://www.sessionshealth.com/pricing - interesting thing here -> free level that we could use
-therapy notes (https://www.therapynotes.com)
-next-gent EMR/headless:
-canvas EMR (
-@Nick Foden
- - know the founder here, this is a 'headless' EMR where WE build the frontend, and they provide all APIs/backend to then make it functioanl; so its like a hybrid approach, we build and use what we want/need - i dont know any other company like this yet)
-modern cloud-first on AWS that are well established for small clinics:
-https://www.elationhealth.com/ehr/
-https://www.drchrono.com 
-younger/new that are still startup phase:
-https://www.akutehealth.com
-generic/small practice EMRs:
-kareo emr (https://www.kareo.com)
-non-EMR/complementary for mental health:
-patient success - https://www.lumahealth.io
 
 
-Healthcare Icons
-- https://healthicons.org/
 
-Pose Estimation  
-- Movement - https://github.com/akshaybahadur21/GymLytics 
-- Bed Position - https://web.northeastern.edu/ostadabbas/2019/06/27/multimodal-in-bed-pose-estimation/ 
-- Instructional - https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/ 
-- Summary of librarires - https://medium.datadriveninvestor.com/top-and-best-computer-vision-human-pose-estimation-projects-186d04204dde 
+
