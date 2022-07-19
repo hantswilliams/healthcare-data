@@ -41,7 +41,8 @@ Best of healthcare data
 ### Assessments 
 - SDoH, mental health, substance use disorders, etc... -> https://www.phenxtoolkit.org/  
 - CMS quality measure inventory -> https://cmit.cms.gov/cmit/#/ 
-
+- AHRQ - Health Tech Assessments -> https://digital.ahrq.gov/health-it-tools-and-resources/evaluation-resources/health-it-survey-compendium-search 
+- AHRQ time motion - https://digital.ahrq.gov/time-and-motion-studies-database 
 
 ### Unique open source datasets 
 - All of Us (NIH) - genetric, PRO, environmental, social, etc...  - https://databrowser.researchallofus.org/
