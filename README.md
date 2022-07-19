@@ -69,8 +69,8 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - NYU Langone Health: https://fastmri.med.nyu.edu/ 
         - Facebooks code for NYU langone data: https://github.com/facebookresearch/fastMRI
 
-### EMRs/EHRs 
-## Behavioral health specific:
+- EMRs/EHRs 
+    - Behavioral health specific:
         - valant emr (https://www.valant.io)
         - eleos health - https://eleos.health
         - blue print health - https://www.blueprint-health.com
@@ -82,13 +82,13 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
         - therapy notes (https://www.therapynotes.com)
         - non-EMR/complementary for mental health:
             - patient success - https://www.lumahealth.io
-## next-gent EMR/headless:
+    - next-gent EMR/headless:
         - canvas EMR (
-## generic / for SMBs 
+    - generic / for SMBs 
         - elationhealth https://www.elationhealth.com/ehr/
         - drchrono https://www.drchrono.com 
         - kareo emr (https://www.kareo.com)
-## other, younger/new that are still startup phase:
+    - other, younger/new that are still startup phase:
         - https://www.akutehealth.com
 
 - Healthcare Icons
