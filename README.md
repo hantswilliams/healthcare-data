@@ -1,5 +1,5 @@
-# healthcare-data
-Best of healthcare data
+# healthcare resources
+Best of healthcare resources, data, engineering, etc...for health informaticists 
 
 ### Tools / searchable engines
 - Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
