@@ -68,6 +68,9 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - Stanford: https://aimi.stanford.edu/shared-datasets
     - NYU Langone Health: https://fastmri.med.nyu.edu/ 
         - Facebooks code for NYU langone data: https://github.com/facebookresearch/fastMRI
+    - COVID data - big ML 
+        - https://www.kaggle.com/datasets/andyczhao/covidx-cxr2 
+        - https://alexswong.github.io/COVID-Net/
 
 - EMRs/EHRs 
     - Behavioral health specific:
