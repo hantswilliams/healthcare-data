@@ -5,6 +5,8 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
     - KEGG: https://www.kegg.jp/ AND https://www.kegg.jp/kegg/brite.html 
     - MONDO: Disease mappings: https://github.com/monarch-initiative/mondo
+- Biome 
+    - https://disbiome.ugent.be/disease/61
 - Government Data US (focuses on open source government datasets (healthdata.gov, cdc.gov, etc...): https://www.find.nhit.org 
 - SNOWMED searchable: https://browser.ihtsdotools.org/?
 - Relational search tool (athena - via ohdsi.org - / 'Odyssey': https://athena.ohdsi.org/search-terms/start AND https://www.ohdsi.org 
