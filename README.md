@@ -10,7 +10,7 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 ### Standards 
 - LOINC 
 - FHIR
-- (research - get from Nathalia) 
+- OMOP Common Data Model
 
 ### Tools / searchable engines
 - Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
