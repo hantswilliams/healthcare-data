@@ -1,6 +1,11 @@
 # healthcare resources
 Best of healthcare resources, data, engineering, etc...for health informaticists 
 
+### Maps / interactive
+- Interactive US News: https://www.usnews.com/news/healthiest-communities/oregon/lane-county#food-nutrition
+    - https://careshq.org 
+    - https://www.usnews.com/news/healthiest-communities/oregon/lane-county#food-nutrition 
+
 ### Tools / searchable engines
 - Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
     - KEGG: https://www.kegg.jp/ AND https://www.kegg.jp/kegg/brite.html 
