@@ -50,6 +50,7 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - Mimic - ICU-like data - https://physionet.org/content/mimiciii-demo/1.4/ 
 - CMS - open payments - https://www.cms.gov/OpenPayments/Data/Dataset-Downloads 
 - CMS - medicare claims public use files (PUF) - https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/BSAPUFS 
+- Text examples for NLP: https://www.mtsamples.com/ 
 
 ### APIs 
 - FDA open APIs 
