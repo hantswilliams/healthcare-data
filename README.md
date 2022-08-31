@@ -51,6 +51,7 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - CMS - open payments - https://www.cms.gov/OpenPayments/Data/Dataset-Downloads 
 - CMS - medicare claims public use files (PUF) - https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/BSAPUFS 
 - Text examples for NLP: https://www.mtsamples.com/ 
+- Healthdata.gov -> DATAJAM Curated Datasets -> SDoH, Care Access, Lyme Disease, COVID-19 equity; https://healthdata.gov/stories/s/6usb-uzrp 
 
 ### APIs 
 - FDA open APIs 
@@ -65,6 +66,7 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
   - NLM RxNav - https://lhncbc.nlm.nih.gov/RxNav/APIs/RxClassAPIs.html
 - Nutrition
   - nutritionix: https://www.nutritionix.com/
+- 
 
 ### Open sourced ML 
 - Radiology related 
