@@ -78,6 +78,8 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - Bed Position - https://web.northeastern.edu/ostadabbas/2019/06/27/multimodal-in-bed-pose-estimation/ 
     - Instructional - https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/ 
     - Summary of librarires - https://medium.datadriveninvestor.com/top-and-best-computer-vision-human-pose-estimation-projects-186d04204dde 
+- NLP - GTP for Pubmed 
+    - https://www.mosaicml.com/blog/introducing-pubmed-gpt
 
 ### ML test data healthcare 
 - Medical Imaging  
@@ -133,6 +135,8 @@ Healthcare:
         -  https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices 
         -  Action plan - > https://www.fda.gov/media/145022/download 
         - Digital health reports -> https://www.fda.gov/medical-devices/digital-health-center-excellence/digital-health-reports 
+   - Conceptual framework for investigating mental disorders
+       - https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc
    - Clinical Knowledge graph (contains tons of APIs/open data to capture) 
             - https://github.com/MannLabs/CKG 
    - Interoperability: 
