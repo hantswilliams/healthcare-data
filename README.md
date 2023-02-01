@@ -68,6 +68,11 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
   - nutritionix: https://www.nutritionix.com/
 - 
 
+### Open Source HIEs/TEFA related
+- OpenHIE https://ohie.org/
+    - https://openhie.github.io/instant/docs/introduction/vision/
+    - https://wiki.ohie.org/
+
 ### Open sourced ML 
 - Radiology related 
     - Arcrdsi: https://www.acrdsi.org 
