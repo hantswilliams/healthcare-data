@@ -46,6 +46,7 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - AHRQ time motion - https://digital.ahrq.gov/time-and-motion-studies-database 
 
 ### Unique open source datasets 
+- SDoH - https://socialcapital.org 
 - All of Us (NIH) - genetric, PRO, environmental, social, etc...  - https://databrowser.researchallofus.org/
 - Mimic - ICU-like data - https://physionet.org/content/mimiciii-demo/1.4/ 
 - CMS - open payments - https://www.cms.gov/OpenPayments/Data/Dataset-Downloads 
