@@ -48,6 +48,7 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 ### Unique open source datasets 
 - Gun Violence: https://www.gunviolencearchive.org/ 
 - SDoH - https://socialcapital.org
+- PhysioNet - physionet: models, databases, software - https://physionet.org/content/ 
 - University Pittsburg Library - https://hsls.libguides.com/health-data-sources/data-sets 
 - NY related SDoH list of resources, data -> https://journals.sagepub.com/doi/full/10.1177/00469580231152318 
 - All of Us (NIH) - genetric, PRO, environmental, social, etc...  - https://databrowser.researchallofus.org/
