@@ -30,8 +30,8 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 ### Open source tools 
 - Symptom to condition check - https://github.com/hantswilliams/medical-symptom-checker 
 
-### Services 
-- Particle Health - https://www.particlehealth.com/
+### Services
+- Particle Health - https://www.particlehealth.com/ - [https://docs.particlehealth.com/reference/ ](https://docs.particlehealth.com/reference/getting-started)
 - Better Platform - Build healthcare apps - https://platform.better.care/sandbox 
 - DrChrono API Platform - https://www.drchrono.com/api/ 
 - Bluebutton CMS - https://bluebutton.cms.gov/developers/ 
@@ -70,14 +70,23 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
   - NLM RxNav - https://lhncbc.nlm.nih.gov/RxNav/APIs/RxClassAPIs.html
 - Nutrition
   - nutritionix: https://www.nutritionix.com/
-- 
+
+### Building Cerner/Epic Tools 
+- Cerner Mellenium - Secure Sandbox 
+    - [https://docs.particlehealth.com/reference/getting-started ](https://fhir.cerner.com/millennium/r4/#secure-sandbox )
+
+
 
 ### Open Source HIEs/TEFA related
 - OpenHIE https://ohie.org/
     - https://openhie.github.io/instant/docs/introduction/vision/
     - https://wiki.ohie.org/
 - Sequia Project - QHINS / TEFCA
-    - https://rce.sequoiaproject.org/designated-qhins/ 
+    - https://rce.sequoiaproject.org/designated-qhins/
+- Global / WHO version:
+    - https://www.ihe.net/resources/profiles/
+- SDoH Related: GRAVITY Project
+    - Terminology sets: https://confluence.hl7.org/display/GRAV/Social+Risk+Terminology+Value+Sets 
 
 
 ### Open sourced ML 
