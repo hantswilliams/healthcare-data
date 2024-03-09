@@ -76,10 +76,18 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - OpenHIE https://ohie.org/
     - https://openhie.github.io/instant/docs/introduction/vision/
     - https://wiki.ohie.org/
+- Sequia Project - QHINS / TEFCA
+    - https://rce.sequoiaproject.org/designated-qhins/ 
+
 
 ### Open sourced ML 
+- Python Packages
+    - https://github.com/sunlabuiuc/PyHealth
+- LLM
+    - https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md 
 - Radiology related 
-    - Arcrdsi: https://www.acrdsi.org 
+    - Arcrdsi: https://www.acrdsi.org
+    - MONAI project: https://github.com/Project-MONAI/MONAI 
 - Generic 
     - The-algorithms: https://the-algorithms.com/category/machinelearning 
 - Pose/body estimation 
