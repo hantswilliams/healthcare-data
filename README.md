@@ -23,6 +23,7 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - Relational search tool (athena - via ohdsi.org - / 'Odyssey': https://athena.ohdsi.org/search-terms/start AND https://www.ohdsi.org 
 - Tools from US government agencies (HHS, CDC, etc...): https://code.gov/agencies
 - Other health data / aggregator: https://ghdx.healthdata.org/
+- H-CUP tools -> CCS, CCI, ECI, and more --> python package: https://github.com/yubin-park/hcuppy 
 
 ### Synthetic Data 
 - Synthea: https://github.com/synthetichealth/synthea 
