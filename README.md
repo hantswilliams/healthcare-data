@@ -10,19 +10,19 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 ### Standards 
 #### LOINC 
 #### FHIR
-    - https://www.hl7.org/fhir/index.html 
-    - https://medium.com/@jaideeppahwa1/list/fhir-for-developers-ea551cc4840c
-    - Most popular FHIR server: HAPI FHIR - Java based -> https://hapi.fhir.org/ - demo client; https://github.com/hapifhir/hapi-fhir
-    - Interesting client: https://samply.github.io/blaze/ - FHIR server with CQL, where you can connect it to a HAPI FHIR server as a example
-    - Interesting client: python: SMART - https://github.com/smart-on-fhir/client-py
-    - FHIR Vendor Sandboxes 
-        - Allscripts https://developer.allscripts.com/
-        - athenahealth - athenaOne https://docs.athenahealth.com/api/
-        - Cerner - Provider and Patient Facing Apps https://fhir.cerner.com/millennium/dstu2/
-        - Epic Provider Facing Apps https://uscdi.epic.com/
-        - Epic Patient Facing Apps https://open.epic.com/
-        - Intersystems https://www.intersystems.com/fhir/
-        - Meditech https://ehr.meditech.com/meditech-greenfield
+- https://www.hl7.org/fhir/index.html 
+- https://medium.com/@jaideeppahwa1/list/fhir-for-developers-ea551cc4840c
+- Most popular FHIR server: HAPI FHIR - Java based -> https://hapi.fhir.org/ - demo client; https://github.com/hapifhir/hapi-fhir
+- Interesting client: https://samply.github.io/blaze/ - FHIR server with CQL, where you can connect it to a HAPI FHIR server as a example
+- Interesting client: python: SMART - https://github.com/smart-on-fhir/client-py
+- FHIR Vendor Sandboxes 
+    - Allscripts https://developer.allscripts.com/
+    - athenahealth - athenaOne https://docs.athenahealth.com/api/
+    - Cerner - Provider and Patient Facing Apps https://fhir.cerner.com/millennium/dstu2/
+    - Epic Provider Facing Apps https://uscdi.epic.com/
+    - Epic Patient Facing Apps https://open.epic.com/
+    - Intersystems https://www.intersystems.com/fhir/
+    - Meditech https://ehr.meditech.com/meditech-greenfield
 #### OMOP Common Data Model
 
 ### Tools / searchable engines
@@ -108,7 +108,8 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - Python Packages
     - https://github.com/sunlabuiuc/PyHealth
 - LLM
-    - https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md 
+    - https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md
+    - FHIR LLM with LangChain - Flask - - FHIR LangChain LLM - Connecting GPT LLM to FHIR resources - https://github.com/sumeetkh/fhir_record_gpt  
 - Radiology related 
     - Arcrdsi: https://www.acrdsi.org
     - MONAI project: https://github.com/Project-MONAI/MONAI 
