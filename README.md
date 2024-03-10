@@ -10,6 +10,11 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 ### Standards 
 - LOINC 
 - FHIR
+    - https://www.hl7.org/fhir/index.html 
+    - https://medium.com/@jaideeppahwa1/list/fhir-for-developers-ea551cc4840c
+    - Most popular FHIR server: HAPI FHIR - Java based -> https://hapi.fhir.org/ - demo client; https://github.com/hapifhir/hapi-fhir
+    - Interesting client: https://samply.github.io/blaze/ - FHIR server with CQL, where you can connect it to a HAPI FHIR server as a example
+    - Interesting client: python: SMART - https://github.com/smart-on-fhir/client-py
 - OMOP Common Data Model
 
 ### Tools / searchable engines
@@ -25,8 +30,9 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 - Other health data / aggregator: https://ghdx.healthdata.org/
 - H-CUP tools -> CCS, CCI, ECI, and more --> python package: https://github.com/yubin-park/hcuppy 
 
-### Synthetic Data 
-- Synthea: https://github.com/synthetichealth/synthea 
+### Synthetic / Fake Data 
+- For FHIR - Synthea: https://github.com/synthetichealth/synthea
+- For HL7v2 messages - Google SIM Hospital - - https://github.com/google/simhospital 
 
 ### Open source tools 
 - Symptom to condition check - https://github.com/hantswilliams/medical-symptom-checker 
@@ -78,7 +84,6 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - [https://docs.particlehealth.com/reference/getting-started ](https://fhir.cerner.com/millennium/r4/#secure-sandbox )
 
 
-
 ### Open Source HIEs/TEFA related
 - OpenHIE https://ohie.org/
     - https://openhie.github.io/instant/docs/introduction/vision/
@@ -118,7 +123,9 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
         - https://www.kaggle.com/datasets/andyczhao/covidx-cxr2 
         - https://alexswong.github.io/COVID-Net/
 
-- EMRs/EHRs 
+- EMRs/EHRs
+    - Open Source
+        - MedPlum (2023-; built on FHIR); has different portals: https://github.com/medplum/medplum  
     - Behavioral health specific:
         - valant emr (https://www.valant.io)
         - eleos health - https://eleos.health
