@@ -109,7 +109,8 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - https://github.com/sunlabuiuc/PyHealth
 - LLM
     - https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md
-    - FHIR LLM with LangChain - Flask - - FHIR LangChain LLM - Connecting GPT LLM to FHIR resources - https://github.com/sumeetkh/fhir_record_gpt  
+    - FHIR LLM with LangChain - Flask - - FHIR LangChain LLM - Connecting GPT LLM to FHIR resources - https://github.com/sumeetkh/fhir_record_gpt
+    - FHIR LLM with open LLM model - FLask  - Answers questions r/t patient records - https://github.com/John-64/Botor-for-FHIR  
 - Radiology related 
     - Arcrdsi: https://www.acrdsi.org
     - MONAI project: https://github.com/Project-MONAI/MONAI 
