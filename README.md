@@ -23,7 +23,17 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
     - Epic Patient Facing Apps https://open.epic.com/
     - Intersystems https://www.intersystems.com/fhir/
     - Meditech https://ehr.meditech.com/meditech-greenfield
+#### Quality Measures 
+- CQL 
+    - Example of FHIR + CQL for colorectal screening: https://github.com/cqframework/cqf-ccc/blob/master/WALKTHROUGH.md / CMS 113 
+    - https://www.youtube.com/watch?v=PlAbNxgG2xo 
+    - https://ecqi.healthit.gov/fhir 
+        - Built on top of:  Quality Data Model (QDM), Clinical Quality Language (CQL), Health Quality Measure Format (HQMF), and Quality Reporting Document Architecture (QRDA)
+    - CQL runner: https://cql-runner.dataphoria.org/ 
 #### OMOP Common Data Model
+
+
+
 
 ### Tools / searchable engines
 - Drug (ATC - NDC), genomic, diseases (ICD-9:ICD-11), genomic, and more
