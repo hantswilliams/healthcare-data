@@ -40,7 +40,8 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
 
 ### Synthetic / Fake Data 
 - For FHIR - Synthea: https://github.com/synthetichealth/synthea
-- For HL7v2 messages - Google SIM Hospital - - https://github.com/google/simhospital 
+- For HL7v2 messages - Google SIM Hospital - - https://github.com/google/simhospital
+- FHIR with Genetics: https://registry.opendata.aws/synthea-coherent-data/ 
 
 ### Open source tools 
 - Symptom to condition check - https://github.com/hantswilliams/medical-symptom-checker 
