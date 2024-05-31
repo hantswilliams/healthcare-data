@@ -8,6 +8,9 @@ Best of healthcare resources, data, engineering, etc...for health informaticists
       - https://www.usnews.com/news/healthiest-communities/oregon/lane-county#food-nutrition 
 
 ### Standards 
+#### ICD
+- ICD Mappings (cost, risk): https://www.cms.gov/medicare/health-plans/medicareadvtgspecratestats/risk-adjustors/2023-model-software/icd-10-mappings
+- ICD-CM: https://www.cdc.gov/nchs/icd/comprehensive-listing-of-icd-10-cm-files.htm 
 #### LOINC 
 #### FHIR
 - https://www.hl7.org/fhir/index.html 
