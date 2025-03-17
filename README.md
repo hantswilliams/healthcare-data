@@ -1,6 +1,9 @@
 # healthcare resources
 Best of healthcare resources, data, engineering, etc...for health informaticists 
 
+## Researcher Article Data
+- Publicly available data from research studies: https://datadryad.org/
+
 ### Maps / interactive
 - Interactive US News: 
     - https://www.usnews.com/news/healthiest-communities/oregon/lane-county#food-nutrition
